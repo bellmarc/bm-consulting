@@ -28,3 +28,4 @@ function withSplash() {
 }
 
 
+export default withSplash
